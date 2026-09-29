@@ -30,6 +30,7 @@ A curated list of Jev in Chinese — tutorials, KOL threads, Xiaohongshu, Bilibi
 - [B站 / 视频](#-b站--视频)
 - [上手教程](#-上手教程)
 - [GitHub 生态中文点评](#-github-生态中文点评)
+- [论文与生态研究](#-论文与生态研究)
 - [争议与冷思考](#-争议与冷思考)
 - [FAQ](#-faq)
 - [贡献](#-贡献)
@@ -144,6 +145,12 @@ curl -X POST https://api.typesafe.ai/v1/systemone \
 - [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader)（1419★）：每区块一次交易决策，演示高速决策
 
 更多见英文原版 + [docs/CATALOG.md](docs/CATALOG.md)。
+
+---
+
+## 📄 论文与生态研究
+
+- [Jev in the Wild：Jev 应用生态的数据驱动综述与分析](https://arxiv.org/abs/2609.30216)（Ling 等，2026）：分析 2,170 个公开 GitHub Jev 项目，记录早期增长、应用领域及 Choice／Score／Noul 等决策用途的分布。
 
 ---
 
